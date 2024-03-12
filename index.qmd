@@ -1,0 +1,8 @@
+---
+title: "About me"
+---
+
+I am currently a student at the University of Toronto Mississauga, pursuing a dual major in economics and statistics. My passion lies in exploring the intersection of these two disciplines, I‘m motivated to comprehend the implications of data on our society and economy.    Through the fusion of economics and statistics, I can distinctive perspective that empowers me to challenges from diverse angles, thereby facilitating innovative solutions.
+
+```
+```
